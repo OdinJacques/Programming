@@ -108,7 +108,7 @@ The goal of these exercises is to strengthen my understanding of:
 
 ## Author
 
-Alexander Bocanegra
+Odin Jacques
 
 GitHub: https://github.com/OdinJacques
 
